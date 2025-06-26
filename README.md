@@ -12,6 +12,7 @@ This repository contains real-world operational documentation from telecom, clou
 - 🔄 Vendor Transition Notes
 - 📄 Statement of Work – Client-Facing Template
 - 🗂️ Statement of Work – Internal IT/Transformation Template
+- - 🔁 Change Request Form Template
 
 ### 📑 Standard Operating Procedures (SOPs)
 - 📞 Toll-Free Number Migration SOP
@@ -22,6 +23,7 @@ This repository contains real-world operational documentation from telecom, clou
 - 🔁 Number Porting Workflow (As-Is vs To-Be)
 - 🤖 Automation Ideas & Impact Map
 - 📈 Step-by-Step Process Optimization Plan
+- - ⚠️ Risk Register Template
 
 ---
 
