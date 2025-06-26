@@ -10,6 +10,8 @@ This repository contains real-world operational documentation from telecom, clou
 - ✅ Contract Evaluation Checklist
 - 🧾 Preferred Supplier Guidelines
 - 🔄 Vendor Transition Notes
+- 📄 Statement of Work – Client-Facing Template
+- 🗂️ Statement of Work – Internal IT/Transformation Template
 
 ### 📑 Standard Operating Procedures (SOPs)
 - 📞 Toll-Free Number Migration SOP
