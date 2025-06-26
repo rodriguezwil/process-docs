@@ -17,7 +17,9 @@ This repository contains real-world operational documentation from telecom, clou
 ### 📑 Standard Operating Procedures (SOPs)
 - 📞 Toll-Free Number Migration SOP
 - 🚨 Incident Escalation Protocol
-- 🔧 Troubleshooting Guides
+- 🧰 Troubleshooting Guide – Call Routing
+- 🧩 Universal Troubleshooting Template (for Non-Tech Users)
+- 📘 Product FAQ Template (Rebrandable for Any Product)
 
 ### 🔧 Process Improvement
 - 🔁 Number Porting Workflow (As-Is vs To-Be)
